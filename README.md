@@ -1,7 +1,7 @@
 # Take Home Test
-##This is a client data collector API
+## This is a client data collector API
 
-###The API is made with minimal functionality to just perform the core task, much could be improved and upgraded but
+### The API is made with minimal functionality to just perform the core task, much could be improved and upgraded but
 the task asked for a kettie and not a photon cannon. :)
 
 ***Server Setup:***
